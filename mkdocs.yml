@@ -29,7 +29,7 @@ nav:
   - Life: 
     - 生活/Life.md
   - Music:
-    - 音乐/Mosic.md
+    - 音乐/邓紫棋.md
   - Movie:
     - 电影/Movie.md
   - Reading:
@@ -37,7 +37,7 @@ nav:
   - Technique:
     - 技术/Technique.md
 
-    
+
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -60,10 +60,10 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/hzeroyuke?tab=repositories
+      link: https://github.com/CS0729?tab=repositories
       name: hzeroyuke's github
-repo_url: https://github.com/hzeroyuke?tab=repositories
-repo_name: hzeroyuke's github
+repo_url: https://github.com/CS0729?tab=repositories
+repo_name: CS0729's github
 
 
 extra_javascript:
