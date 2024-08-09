@@ -29,10 +29,15 @@ nav:
   - Life: 
     - 生活/Life.md
   - Music:
+    - 音乐/Mosic.md
   - Movie:
+    - 电影/Movie.md
   - Reading:
+    - 阅读/Reading.md
   - Technique:
+    - 技术/Technique.md
 
+    
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
