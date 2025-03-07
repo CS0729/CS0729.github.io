@@ -122,3 +122,13 @@
   .flink-list-item {
     font-size: 14px; /* 这里是你想要的字体大小 */
   }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .gem_img{
+      width:100px;
+      height:100px;
+    }
